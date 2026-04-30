@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+data/*.db
+data/*.json
+!data/.gitkeep
+profile.yaml
+.streamlit/

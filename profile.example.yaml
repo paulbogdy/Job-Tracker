@@ -1,0 +1,96 @@
+location:
+  city: Basel
+  country: Switzerland
+  radius_km: 35
+  acceptable_locations:
+    - Basel
+    - Basel-Stadt
+    - Basel-Landschaft
+    - Allschwil
+    - Muttenz
+    - Riehen
+    - Pratteln
+    - Liestal
+    - Remote
+    - Hybrid
+
+languages:
+  English: fluent
+  German: beginner
+
+permit: To be confirmed
+
+experience:
+  hospitality:
+    - waitressing
+    - service staff
+  hotels_cleaning:
+    - housekeeping
+    - cleaning
+  admin:
+    - customer support
+    - office administration
+  data:
+    - Excel
+    - SQL
+    - Power BI
+  marketing:
+    - social media
+    - content support
+
+target_buckets:
+  - Hospitality
+  - Hotels/Housekeeping
+  - Admin/Customer Support
+  - Retail/Events
+  - Data/Marketing
+
+search_keywords:
+  hospitality:
+    - waitress Basel English
+    - waiter Basel English
+    - service staff Basel
+    - restaurant service Basel
+  hotels_housekeeping:
+    - hotel housekeeping Basel
+    - room attendant Basel
+    - cleaner Basel English
+    - housekeeping Basel
+  admin_customer_support:
+    - admin assistant Basel English
+    - office assistant Basel
+    - receptionist Basel English
+    - customer support Basel English
+  retail_events:
+    - retail assistant Basel English
+    - sales assistant Basel
+    - event staff Basel English
+  data_marketing:
+    - junior data analyst Basel English
+    - Power BI Basel English
+    - SQL Excel Basel
+    - social media assistant Basel English
+    - marketing assistant Basel English
+
+avoid_keywords:
+  - fluent German required
+  - native German
+  - Swiss German
+  - Schweizerdeutsch
+  - senior
+  - head of
+  - director
+  - licensed profession
+
+preferred_roles:
+  - service staff
+  - housekeeper
+  - room attendant
+  - cleaner
+  - receptionist
+  - admin assistant
+  - customer support
+  - retail assistant
+  - event staff
+  - junior data analyst
+  - marketing assistant
